@@ -1,6 +1,6 @@
 ---
 title: "Practical Machine Learning - Coursera"
-author: "Vir Pratap Singh"
+author: "Rashi singh rawat"
 output: html_document
 ---
 
